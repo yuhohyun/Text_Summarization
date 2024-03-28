@@ -1,0 +1,9 @@
+# data
+KoBART-summarization/new_data
+KoBART-summarization/data
+KoBART-summarization/imgs
+
+# model binary
+KoBART-summarization/kobart_summary
+
+KoBART-summarization/infer.py
